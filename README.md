@@ -148,6 +148,16 @@ fanbox-win/
 
 ## Credits
 
+### Windows 版作者
+
+**leisvip** — 基于原版进行 Windows 平台适配和重构。
+
+| Platform | Link |
+|------|------|
+| 🌐 Web | [cozes.top](https://cozes.top/s) |
+| 📺 Bilibili | [leisvip](https://space.bilibili.com/397302381) |
+| 💻 GitHub | [leisvip](https://github.com/leisvip) |
+
 ### 原版作者
 
 **花叔 Huashu** — AI Native Coder, indie developer. Known for Cat Light (App Store paid chart Top 1).
@@ -158,10 +168,6 @@ fanbox-win/
 | 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
 | 📺 Bilibili | [花叔](https://space.bilibili.com/14097567) |
 | 📕 Xiaohongshu | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-
-### Windows 版重构
-
-**leisvip** — 基于原版进行 Windows 平台适配和重构。
 
 ---
 
